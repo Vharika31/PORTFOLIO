@@ -1,1 +1,1 @@
-Check live project https://harika-uiux.vercel.app/
+Go live https://harika-uiux.vercel.app/
